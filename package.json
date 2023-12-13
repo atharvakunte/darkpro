@@ -1,0 +1,22 @@
+{
+  "name": "darkpro",
+  "displayName": "DarkPro",
+  "description": "Best dark theme for devs",
+  "version": "1.0.0",
+  "publisher": "AtharvaKunte",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkPro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkPro-color-theme.json"
+      }
+    ]
+  }
+}
