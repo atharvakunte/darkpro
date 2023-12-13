@@ -4,6 +4,22 @@
   "description": "Best dark theme for devs",
   "version": "1.0.0",
   "publisher": "AtharvaKunte",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atharvakunte/darkpro"
+  },
+  "keywords": [
+    "theme",
+    "atharvakunte",
+    "Atharva",
+    "Kunte",
+    "atharva",
+    "Atharva Kunte",
+    "darkpro",
+    "dark theme",
+    "dark pro",
+    "pro"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
