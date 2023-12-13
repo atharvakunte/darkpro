@@ -1,16 +1,16 @@
-# darkpro README
+# DarkPro 🧑🏻‍💻
 
-## Working with Markdown
+A Visual Studio Code theme for the pro coders out there. Enjoy your coding experience even more with this dark theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## DarkPro
+![First Screen](darkpro.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Installation
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `DarkPro`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **DarkPro**
