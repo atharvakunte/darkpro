@@ -2,8 +2,9 @@
   "name": "darkpro",
   "displayName": "DarkPro",
   "description": "Best dark theme for devs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "AtharvaKunte",
+  "icon": "darkproicon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/atharvakunte/darkpro"
